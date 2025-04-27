@@ -1,0 +1,9 @@
+# Java artifacts
+*.class
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
